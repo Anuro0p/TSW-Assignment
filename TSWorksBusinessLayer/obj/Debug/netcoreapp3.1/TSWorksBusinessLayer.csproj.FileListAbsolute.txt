@@ -1,0 +1,13 @@
+C:\Users\White\source\repos\TSWorks\TSWorksBusinessLayer\obj\Debug\netcoreapp3.1\TSWorksBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\White\source\repos\TSWorks\TSWorksBusinessLayer\obj\Debug\netcoreapp3.1\TSWorksBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\White\source\repos\TSWorks\TSWorksBusinessLayer\obj\Debug\netcoreapp3.1\TSWorksBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\White\source\repos\TSWorks\TSWorksBusinessLayer\obj\Debug\netcoreapp3.1\TSWorksBusinessLayer.AssemblyInfo.cs
+C:\Users\White\source\repos\TSWorks\TSWorksBusinessLayer\obj\Debug\netcoreapp3.1\TSWorksBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\White\source\repos\TSWorks\TSWorksBusinessLayer\bin\Debug\netcoreapp3.1\TSWorksBusinessLayer.deps.json
+C:\Users\White\source\repos\TSWorks\TSWorksBusinessLayer\bin\Debug\netcoreapp3.1\TSWorksBusinessLayer.dll
+C:\Users\White\source\repos\TSWorks\TSWorksBusinessLayer\bin\Debug\netcoreapp3.1\TSWorksBusinessLayer.pdb
+C:\Users\White\source\repos\TSWorks\TSWorksBusinessLayer\bin\Debug\netcoreapp3.1\TSWorksDataAccessLayer.dll
+C:\Users\White\source\repos\TSWorks\TSWorksBusinessLayer\bin\Debug\netcoreapp3.1\TSWorksDataAccessLayer.pdb
+C:\Users\White\source\repos\TSWorks\TSWorksBusinessLayer\obj\Debug\netcoreapp3.1\TSWorksBusinessLayer.csproj.CopyComplete
+C:\Users\White\source\repos\TSWorks\TSWorksBusinessLayer\obj\Debug\netcoreapp3.1\TSWorksBusinessLayer.dll
+C:\Users\White\source\repos\TSWorks\TSWorksBusinessLayer\obj\Debug\netcoreapp3.1\TSWorksBusinessLayer.pdb

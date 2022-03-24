@@ -1,0 +1,10 @@
+C:\Users\White\source\repos\TSWorks\TSWorksDataAccessLayer\bin\Debug\netcoreapp3.1\TSWorksDataAccessLayer.deps.json
+C:\Users\White\source\repos\TSWorks\TSWorksDataAccessLayer\bin\Debug\netcoreapp3.1\TSWorksDataAccessLayer.dll
+C:\Users\White\source\repos\TSWorks\TSWorksDataAccessLayer\bin\Debug\netcoreapp3.1\TSWorksDataAccessLayer.pdb
+C:\Users\White\source\repos\TSWorks\TSWorksDataAccessLayer\obj\Debug\netcoreapp3.1\TSWorksDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\White\source\repos\TSWorks\TSWorksDataAccessLayer\obj\Debug\netcoreapp3.1\TSWorksDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\White\source\repos\TSWorks\TSWorksDataAccessLayer\obj\Debug\netcoreapp3.1\TSWorksDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\White\source\repos\TSWorks\TSWorksDataAccessLayer\obj\Debug\netcoreapp3.1\TSWorksDataAccessLayer.AssemblyInfo.cs
+C:\Users\White\source\repos\TSWorks\TSWorksDataAccessLayer\obj\Debug\netcoreapp3.1\TSWorksDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\White\source\repos\TSWorks\TSWorksDataAccessLayer\obj\Debug\netcoreapp3.1\TSWorksDataAccessLayer.dll
+C:\Users\White\source\repos\TSWorks\TSWorksDataAccessLayer\obj\Debug\netcoreapp3.1\TSWorksDataAccessLayer.pdb
